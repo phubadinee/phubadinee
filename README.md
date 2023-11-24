@@ -42,7 +42,7 @@
 <a href="http://www.instagram.com/phu_badine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" /></a></p>
 
 
-
+![phubadinee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phubadine&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadine's GitHub stats" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
