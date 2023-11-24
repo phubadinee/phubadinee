@@ -50,6 +50,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phubadinee&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee)](https://github.com/phubadinee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&langs_count=8)](https://github.com/phubadinee)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phubadinee&repo=data-science)](https://github.com/phubadinee/data-science)
