@@ -43,13 +43,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phubadine&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadine's GitHub stats" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phubadine&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadine's GitHub stats" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadine&langs_count=10&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></p> -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phubadinee)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phubadinee&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phubadinee&count_private=true&show_icons=true)
+
