@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-<a href="https://www.github.com/phubadine" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=phubadine&style=for-the-badge&label=WATCHERS&color=27285C" /></a>
+<a href="https://www.github.com/phubadinee" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=phubadinee&style=for-the-badge&label=WATCHERS&color=27285C" /></a>
 </p>
 
 <!-- <p align="center">
