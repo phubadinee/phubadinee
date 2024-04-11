@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phubadinee&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadinee's GitHub stats!" /></p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&layout=compact)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phubadinee&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&langs_count=8)](https://github.com/phubadinee)
