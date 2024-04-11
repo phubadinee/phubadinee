@@ -42,6 +42,9 @@
 <a href="http://www.instagram.com/phu_badine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phubadinee&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0f172a&icon_color=64748b&bg_color=ffffff&hide_border=true&show_icons=true" alt="phubadinee's GitHub stats!" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&layout=compact" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phubadinee&layout=compact)
 <!--
